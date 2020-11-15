@@ -25,5 +25,5 @@ Now it includes the following files.
     This is a Jupyther notebook to explain briefly why the singular value decomposition
     (SVD) can be used to implement the principal component analysis.
 
-- Intuition about the RMSprop and Adam optimizations.ipynb
+- Intuition about the RMSprop and Adam optimizations.ipynb  
     Give my understanding about the two optimizations (uncompleted). 
