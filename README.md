@@ -26,4 +26,4 @@ Now it includes the following files.
     (SVD) can be used to implement the principal component analysis.
 
 - Intuition about the RMSprop and Adam optimizations.ipynb  
-    Give my understanding about the two optimizations (uncompleted). 
+Give my understanding about the two optimizations (uncompleted). 
