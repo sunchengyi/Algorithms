@@ -2,7 +2,7 @@
 This repository is about some small algorithms implemented by me or my own understanding 
 about some alorithms.
 
-Now it includes three files.
+Now it includes the following files.
 
 - k-means.py
 
@@ -25,3 +25,5 @@ Now it includes three files.
     This is a Jupyther notebook to explain briefly why the singular value decomposition
     (SVD) can be used to implement the principal component analysis.
 
+- Intuition about the RMSprop and Adam optimizations.ipynb
+    Give my understanding about the two optimizations (uncompleted). 
