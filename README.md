@@ -33,3 +33,6 @@ Now it includes the following files.
 
 - Focal Loss
   Explain Focal Loss.
+
+- XGBoost
+  Summary my understanding on XGBoost.
