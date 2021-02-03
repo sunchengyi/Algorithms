@@ -31,7 +31,7 @@ Now it includes the following files.
 - SVM and Imbalanced Data
   Illustrate the conclusion that for hard margin classification (large 'C'), 'class_weight' plays no role. 
 
-- Focal Loss
+- Focal Loss  
   Explain Focal Loss.
 
 - XGBoost  
