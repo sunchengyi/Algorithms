@@ -38,4 +38,4 @@ Now it includes the following files.
   Summary my understanding on XGBoost.
 
 - tunable_way_in_linearly_combining_losses  
-  Summary an interesting blog about how to make the linear combition of lossed become tunable.
+  Summary an interesting blog about how to make the linear combition of losses become tunable.
