@@ -37,5 +37,5 @@ Now it includes the following files.
 - XGBoost  
   Summary my understanding on XGBoost.
 
-- tunable_way_in_linearly_combining_losses
+- tunable_way_in_linearly_combining_losses  
   Summary an interesting blog about how to make the linear combition of lossed become tunable.
